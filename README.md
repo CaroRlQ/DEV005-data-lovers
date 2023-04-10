@@ -72,4 +72,4 @@ La página web deberá ser amigable a la percepción visual del usuario, por lo 
 * Se hizo responsive para múltiples dispositivos.
 
 **3.3 Link de página:**
-
+https://carorlq.github.io/DEV005-data-lovers/src/
