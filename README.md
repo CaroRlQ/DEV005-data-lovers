@@ -30,7 +30,7 @@ Realizar una interfaz que me permita visualizar las producciones de Studios Ghib
 **1.4 Prototipo de baja fidelidad:**
 ![](prototipo-baja-fidelidad.jpg)
 **1.5 Prototipo de alta fidelidad:**
-
+![](prototipo_alta_fidelidad.PNG)
 **1.6 Tests de usabilidad:**
 La realización de los test de usabilidad nos permite observar la eficacia de la interfaz a base de la experiencia que esta le genera al usuario.
 
