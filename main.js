@@ -1,5 +1,5 @@
 import { filterByProducer, orderAlphabetical_AZ, orderAlphabetical_ZA, topMovies, genderStadisctic, specieStadistic } from './data.js';
-// import data from './data/lol/lol.js';
+
 import data from './data/ghibli/ghibli.js';
 
 
@@ -81,7 +81,6 @@ alphabeticalOrder.addEventListener('change', orderOption);
 function orderOption() {
   const orderValue = alphabeticalOrder.value;
   console.log('prueba1', orderValue);
-
   if (orderValue === 'A-Z') {
     insertPoster.innerHTML = '';
     const orderA_Z = orderAlphabetical_AZ(arrayFilms);
@@ -106,6 +105,7 @@ function selecTop() {
   insertPoster.innerHTML = '';
   printAllPoster(topMovies(arrayFilms))
 }
+
 
 //CREACION EVENTO DATOS CURIOSOS
 const btnCurious = document.getElementById("btnCurious");
