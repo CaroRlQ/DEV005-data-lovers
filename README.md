@@ -28,7 +28,7 @@ Realizar una interfaz que me permita visualizar las producciones de Studios Ghib
   Yo como usuario quiero ver una sección de datos curiosos o relevantes de las peliculas de Studios Ghibli y también ver cuales son sus 10 películas con mejor Ranking.
 
 **1.4 Prototipo de baja fidelidad:**
-
+![](prototipo-baja-fidelidad.jpg)
 **1.5 Prototipo de alta fidelidad:**
 
 **1.6 Tests de usabilidad:**
